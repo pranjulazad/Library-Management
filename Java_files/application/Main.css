@@ -1,0 +1,18 @@
+.providedButton{
+	-fx-background-color: #616161;
+	-fx-text-fill: #F5F5F5;
+	-fx-font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.providedButton:hover{
+	-fx-background-color: #006064;
+	-fx-text-fill: #263238;
+}
+
+.hboxclass{
+	-fx-background-color: #e7e7e7;
+}
+
+#bookIssue{
+	-fx-background-color: #616161;
+}
